@@ -1,7 +1,5 @@
 # typewriter-app
-Desktop app for your Tweet via [typefully](https://typefully.app/) app and improve writing via [hemingway app](https://hemingwayapp.com/)
-
-## Electron app for package managers
+## Desktop app for your Tweet via [typefully](https://typefully.app/) app and improve writing via [hemingway app](https://hemingwayapp.com/)
 
 ![typewriter-app](https://github.com/sanmak/typewriter-app/blob/main/src/assets/images/typewriter_app_512.png)
 
@@ -84,9 +82,10 @@ Install this package and follow examples given below. We have `examples` folder 
 ## Usage
 
 - To run this package, run: `yarn start`
-- To run installer, download from make folder "https://github.com/sanmak/typewriter-app/out/make"
 
 ![snap-1](https://github.com/sanmak/typewriter-app/blob/main/src/assets/images/application-snap-typefully-app.png)
+
+
 ![snap-1](https://github.com/sanmak/typewriter-app/blob/main/src/assets/images/application-snap-hemingway-app.png)
 
 ## Download
