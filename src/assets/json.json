@@ -1,0 +1,20 @@
+[
+  {
+    "title": "TYPEFULLY APP",
+    "src": "https://typefully.app/",
+    "visible": true,
+    "active": true
+  },
+  {
+    "title": "HEMINGWAY APP",
+    "src": "https://hemingwayapp.com/"
+  },
+  {
+    "title": "AUTHOR ❤️ SANMAK",
+    "src": "https://github.com/sanmak/"
+  },
+  {
+    "title": "SPONSOR ❤️ SANMAK",
+    "src": "https://ko-fi.com/boxpiper"
+  }
+]

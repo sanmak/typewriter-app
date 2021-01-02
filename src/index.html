@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>TYPEWRITER APP</title>
+    <link rel="stylesheet" href="./assets/css.css" />
+  </head>
+
+  <body style="margin: 0">
+    <div class="etabs-tabgroup">
+      <div class="etabs-tabs"></div>
+      <div class="etabs-buttons"></div>
+    </div>
+    <div class="etabs-views"></div>
+
+    <script>
+      const TabGroup = require("./assets/js.js");
+      const json = require("./assets/json.json");
+      let tabGroup = new TabGroup({});
+
+      tabGroup.addTabs(json);
+    </script>
+  </body>
+</html>
